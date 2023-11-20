@@ -1,6 +1,5 @@
 # My Awesome GitHub Profile
 
-
 # Hello, I'm Mustafa Rizwan! 👋
 
 I'm a versatile freelancer with a passion for creating innovative solutions in web and app development. 💻🚀
@@ -14,11 +13,11 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 I thrive on turning ideas into reality through coding and problem-solving. My goal is to contribute positively to the ever-evolving tech landscape. 🌐
 
 ## Let's Connect!
-Feel free to reach out to me on [LinkedIn]((https://www.linkedin.com/in/mustafa-rizwan-bbb752276/)) if you'd like to collaborate or just have a chat.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mustafa-rizwan-bbb752276/) if you'd like to collaborate or just have a chat.
 
 ---
 
 *Let's build something extraordinary together!* 🚀
-<font color="#3498db">*Your text here*</font>
-**Profile View Count
+
+**Profile View Count**
 ![Profile Views](https://komarev.com/ghpvc/?username=runtime-error786)
