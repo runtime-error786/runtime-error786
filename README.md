@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 I thrive on turning ideas into reality through coding and problem-solving. My goal is to contribute positively to the ever-evolving tech landscape. 🌐
 
 ## Let's Connect!
-Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mustafa-rizwan-bbb752276/)) if you'd like to collaborate or just have a chat.
+Feel free to reach out to me on [LinkedIn]((https://www.linkedin.com/in/mustafa-rizwan-bbb752276/)) if you'd like to collaborate or just have a chat.
 
 ---
 
