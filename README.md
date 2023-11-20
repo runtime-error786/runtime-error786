@@ -1,4 +1,4 @@
-# My Awesome GitHub Profile
+# My GitHub Profile
 
 # Hello, I'm Mustafa Rizwan! 👋
 
