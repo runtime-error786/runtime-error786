@@ -3,17 +3,22 @@
 Welcome to my GitHub profile! Feel free to explore my repositories.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=runtime-error786)
-# Hello! 👋
+# Hello, I'm Mustafa Rizwan! 👋
 
-My name is Mustafa Rizwan. I am a freelancer specializing in web development and app development.
+I'm a versatile freelancer with a passion for creating innovative solutions in web and app development. 💻🚀
 
 ## Skills
-- Web Development
-- App Development
+- **Web Development** 💻
+- **App Development** 📱
 
 ## About Me
-I enjoy working on various projects and contributing to the world of technology.
+I thrive on turning ideas into reality through coding and problem-solving. My goal is to contribute positively to the ever-evolving tech landscape. 🌐
 
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+## Let's Connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) if you'd like to collaborate or just have a chat.
+
+---
+
+*Let's build something extraordinary together!* 🚀
+<font color="#3498db">*Your text here*</font>
 
