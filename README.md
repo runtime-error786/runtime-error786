@@ -9,6 +9,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 - **Full Stack Web Development (MERN)** 💻
 - **App Development (React Native Developer)** 📱
 
+## Languages
+- **C++,C,C#,Java,JavaScript,SQL,MongoDB,TypeScript,Html,CSS
 ## About Me
 I thrive on turning ideas into reality through coding and problem-solving. My goal is to contribute positively to the ever-evolving tech landscape. 🌐
 
