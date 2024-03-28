@@ -28,7 +28,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mustafa-r
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runtime-error786&show_icons=true&locale=en&layout=compact" alt="runtime-error786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runtime-error786&show_icons=true&locale=en" alt="runtime-error786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runtime-error786&" alt="runtime-error786" /></p>
 
