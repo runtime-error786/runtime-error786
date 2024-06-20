@@ -8,6 +8,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 ## Skills
 - **Full Stack Web Development (MERN)** 💻
 - **App Development (React Native Developer)** 📱
+- **LLM Engineer(Generative Ai Developer)** 📱
 
 ## Languages
   C++,C,C#,Java,JavaScript,SQL,MongoDB,TypeScript,Html,CSS,Python
