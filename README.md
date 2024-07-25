@@ -10,6 +10,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 - **App Development (React Native Developer)** 📱
 - **LLM Engineer(Generative Ai Developer)** 📱
 - **Django Rest Framework** 💻
+- **OpenCV**
   
 ## Languages
   C++,C,C#,Java,JavaScript,SQL,MongoDB,TypeScript,Html,CSS,Python
