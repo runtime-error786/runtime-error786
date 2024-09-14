@@ -14,6 +14,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 - **Langchain**
 - **Langgraph**
 - **Crew Ai**
+- **Langsmith**
+- **LangServe**
   
   
 ## Languages
