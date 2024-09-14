@@ -11,6 +11,10 @@ Welcome to my GitHub profile! Feel free to explore my repositories.
 - **LLM Engineer(Generative Ai Developer)** 📱
 - **Django Rest Framework** 💻
 - **OpenCV**
+- **Langchain**
+- **Langgraph**
+- **Crew Ai**
+  
   
 ## Languages
   C++,C,C#,Java,JavaScript,SQL,MongoDB,TypeScript,Html,CSS,Python
